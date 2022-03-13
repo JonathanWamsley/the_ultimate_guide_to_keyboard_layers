@@ -9,16 +9,16 @@
 * [1.3 Pros Layers](ch-1-keyboard-layers-101/1.4-pros-and-cons-of-layers.md)
 * [1.4 Cons of Layers](ch-1-keyboard-layers-101/1.4-cons-of-layers.md)
 
-## Ch 2: Getting Started
+## Ch 2: Gear Setup
 
-* [2.1 Keyboards](ch-2-getting-started/2.1-keyboards.md)
-* [2.2 Firmware](ch-2-getting-started/2.2-firmware.md)
-* [2.3 Software](ch-2-getting-started/2.3-software.md)
-* [2.4 Other Ergonomic Gear](ch-2-getting-started/2.4-other-ergonomic-gear/README.md)
-  * [2.4.1 Wrist Rests](ch-2-getting-started/2.4-other-ergonomic-gear/2.4.1-wrist-rests.md)
-  * [2.4.2 Chairs](ch-2-getting-started/2.4-other-ergonomic-gear/2.4.2-chairs.md)
-  * [2.4.3 Monitors](ch-2-getting-started/2.4-other-ergonomic-gear/2.4.3-monitors.md)
-  * [2.4.4 Desks](ch-2-getting-started/2.4-other-ergonomic-gear/2.4.4-desks.md)
+* [2.1 Keyboards](ch-2-gear-setup/2.1-keyboards.md)
+* [2.2 Firmware](ch-2-gear-setup/2.2-firmware.md)
+* [2.3 Software](ch-2-gear-setup/2.3-software.md)
+* [2.4 Other Ergonomic Gear](ch-2-gear-setup/2.4-other-ergonomic-gear/README.md)
+  * [2.4.1 Wrist Rests](ch-2-gear-setup/2.4-other-ergonomic-gear/2.4.1-wrist-rests.md)
+  * [2.4.2 Chairs](ch-2-gear-setup/2.4-other-ergonomic-gear/2.4.2-chairs.md)
+  * [2.4.3 Monitors](ch-2-gear-setup/2.4-other-ergonomic-gear/2.4.3-monitors.md)
+  * [2.4.4 Desks](ch-2-gear-setup/2.4-other-ergonomic-gear/2.4.4-desks.md)
 
 ## Ch 3: Activating Layers
 
@@ -82,3 +82,10 @@
 ***
 
 * [Resources](resources.md)
+
+## Other
+
+* [Proper Typing Posture](other/proper-typing-posture.md)
+* [Typing Exercises](other/typing-exercises.md)
+* [Code Snippets](other/code-snippets.md)
+* [Aliases, Extensions and Plugins](other/aliases-extensions-and-plugins.md)
