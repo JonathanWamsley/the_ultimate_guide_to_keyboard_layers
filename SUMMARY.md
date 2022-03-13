@@ -61,6 +61,8 @@
 * [8.2 How To Contribute Your Layer](ch-8-contributed-layers/8.2-how-to-contribute-your-layer.md)
 * [Users Layers](ch-8-contributed-layers/users-layers/README.md)
   * [Jon's Layers](ch-8-contributed-layers/users-layers/jons-layers/README.md)
+    * [Code Files](ch-8-contributed-layers/users-layers/jons-layers/code-files.md)
+    * [Keyboard Timeline](ch-8-contributed-layers/users-layers/jons-layers/my-timeline.md)
     * [Layers](ch-8-contributed-layers/users-layers/jons-layers/layers/README.md)
       * [Default Layer](ch-8-contributed-layers/users-layers/jons-layers/layers/default-layer.md)
       * [Shift Layer](ch-8-contributed-layers/users-layers/jons-layers/layers/shift-layer.md)
@@ -76,8 +78,6 @@
       * [Discord Layer](ch-8-contributed-layers/users-layers/jons-layers/layers/discord-layer.md)
       * [Slack Layer](ch-8-contributed-layers/users-layers/jons-layers/layers/slack-layer.md)
       * [Gaming Layer](ch-8-contributed-layers/users-layers/jons-layers/layers/gaming-layer.md)
-    * [Code Files](ch-8-contributed-layers/users-layers/jons-layers/code-files.md)
-    * [Keyboard Timeline](ch-8-contributed-layers/users-layers/jons-layers/my-timeline.md)
 
 ***
 
