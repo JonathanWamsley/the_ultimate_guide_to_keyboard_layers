@@ -77,7 +77,7 @@
       * [Slack Layer](ch-8-contributed-layers/users-layers/jons-layers/layers/slack-layer.md)
       * [Gaming Layer](ch-8-contributed-layers/users-layers/jons-layers/layers/gaming-layer.md)
     * [Code Files](ch-8-contributed-layers/users-layers/jons-layers/code-files.md)
-    * [My Timeline](ch-8-contributed-layers/users-layers/jons-layers/my-timeline.md)
+    * [Keyboard Timeline](ch-8-contributed-layers/users-layers/jons-layers/my-timeline.md)
 
 ***
 
