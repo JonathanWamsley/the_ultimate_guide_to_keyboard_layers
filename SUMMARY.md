@@ -4,10 +4,10 @@
 
 ## Ch 1: Keyboard Layers 101
 
-* [1.1 Keyboard Real Estate](ch-1-keyboard-layers-101/1.1-keyboard-real-estate.md)
-* [1.2 Default Layers](ch-1-keyboard-layers-101/1.2-default-layers.md)
-* [1.3 Extended Layers](ch-1-keyboard-layers-101/1.3-extended-layers.md)
-* [1.4 Pros and Cons of Layers](ch-1-keyboard-layers-101/1.4-pros-and-cons-of-layers.md)
+* [1.1 Keyboard Fundamentals](ch-1-keyboard-layers-101/1.1-keyboard-real-estate.md)
+* [1.2 Layers](ch-1-keyboard-layers-101/1.2-default-layers.md)
+* [1.3 Pros Layers](ch-1-keyboard-layers-101/1.4-pros-and-cons-of-layers.md)
+* [1.4 Cons of Layers](ch-1-keyboard-layers-101/1.4-cons-of-layers.md)
 
 ## Ch 2: Getting Started
 
