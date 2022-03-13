@@ -9,7 +9,7 @@ Quarters are 3 month periods starting from Jan-March
 
 
 | Quarter                               | Theme                                                        | Achievement                                                                                        |
-| ------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| -------- | ---------------------------- | -------------------------------------------------------------------------------------------------- |
 | <mark style="color:blue;">Q1</mark>   | <mark style="color:blue;">Started Touch Typing</mark>        | <mark style="color:blue;">Reached 100 wpm on QWERTY</mark>                                         |
 | <mark style="color:purple;">Q2</mark> | <mark style="color:purple;">Ulnar Deviation Problems</mark>  | <mark style="color:purple;">Experimented with Microsoft Keyboard Layout Creator</mark>             |
 | <mark style="color:orange;">Q3</mark> | <mark style="color:orange;">Layout Analysis and Trial</mark> | <mark style="color:orange;">Used python to analyze words for letter placement</mark>               |
@@ -25,7 +25,7 @@ Quarters are 3 month periods starting from Jan-March
 
 {% tab title="2021" %}
 | Quarter                               | Theme                                             | Achievement                                                                                      |
-| ------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| -------- | ---------------------------- | ------------------------------------------------------------------------------------------------ |
 | <mark style="color:purple;">Q2</mark> | <mark style="color:purple;">Move to Mac</mark>    | <mark style="color:purple;">Used Ukelele to create custom keyboard layout</mark>                 |
 |                                       |                                                   | <mark style="color:purple;">Used Keyboard Maestro to create a nav / edit and numpad layer</mark> |
 | <mark style="color:green;">Q4</mark>  | <mark style="color:green;">Got Dygma Raise</mark> | <mark style="color:green;">Got thumb keys with Dual-Function layers</mark>                       |
@@ -38,7 +38,7 @@ Quarters are 3 month periods starting from Jan-March
 
 
 | Quarter                             | Theme                                                    | Achievement                                                                                                        |
-| ----------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| -------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | <mark style="color:blue;">Q1</mark> | <mark style="color:blue;">Studied Layer Structure</mark> | <mark style="color:blue;">Used Karabiner element for mouse control and front most application control logic</mark> |
 |                                     |                                                          | <mark style="color:blue;">Created Application Layer(one to many layers depending on application)</mark>            |
 |                                     |                                                          | <mark style="color:blue;">Created VS Code, Browser, Slack and Discord as an application layer</mark>               |
