@@ -2,7 +2,7 @@
 
 * [Overview](README.md)
 
-## Ch 1: Keyboard Layers 101&#x20;
+## Ch 1: Keyboard Layers 101
 
 * [1.1 Keyboard Real Estate](ch-1-keyboard-layers-101/1.1-keyboard-real-estate.md)
 * [1.2 Default Layers](ch-1-keyboard-layers-101/1.2-default-layers.md)
@@ -36,7 +36,7 @@
 * [4.3 Planning Layers](ch-4-creating-layers/4.3-planning-layers.md)
 * [4.4 Implementing Layers](ch-4-creating-layers/4.4-implementing-layers.md)
 
-## Ch 5:  Creating Layers Tips
+## Ch 5: Creating Layers Tips
 
 * [5.1 Key Functionality Across Layers](ch-5-creating-layers-tips/5.1-key-functionality-across-layers.md)
 * [5.2 Thumb Keys](ch-5-creating-layers-tips/5.2-thumb-keys.md)
@@ -77,6 +77,7 @@
       * [Slack Layer](ch-8-contributed-layers/users-layers/jons-layers/layers/slack-layer.md)
       * [Gaming Layer](ch-8-contributed-layers/users-layers/jons-layers/layers/gaming-layer.md)
     * [Code Files](ch-8-contributed-layers/users-layers/jons-layers/code-files.md)
+    * [My Timeline](ch-8-contributed-layers/users-layers/jons-layers/my-timeline.md)
 
 ***
 
