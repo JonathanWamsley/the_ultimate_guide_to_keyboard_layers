@@ -6,7 +6,7 @@
 
 * [1.1 Keyboard Fundamentals](ch-1-keyboard-layers-101/1.1-keyboard-real-estate.md)
 * [1.2 Layers](ch-1-keyboard-layers-101/1.2-default-layers.md)
-* [1.3 Pros Layers](ch-1-keyboard-layers-101/1.4-pros-and-cons-of-layers.md)
+* [1.3 Pros Of Layers](ch-1-keyboard-layers-101/1.4-pros-and-cons-of-layers.md)
 * [1.4 Cons of Layers](ch-1-keyboard-layers-101/1.4-cons-of-layers.md)
 
 ## Ch 2: Gear Setup
