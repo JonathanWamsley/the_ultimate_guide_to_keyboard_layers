@@ -1,2 +1,0 @@
-# Aliases, Extensions and Plugins
-
