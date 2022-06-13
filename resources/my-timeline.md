@@ -36,5 +36,9 @@ Quarters are 3 month periods starting from Jan-March
   * <mark style="color:orange;">Created an Application Layer with VS Code, Browser, Slack and Discord</mark>
   * <mark style="color:orange;">Adapted Super Keys(tap dance) into layers</mark>
   * <mark style="color:orange;">Started The Ultimate Guide to Keyboard Layers</mark>
+* <mark style="color:red;">Q2:</mark> <mark style="color:green;">Designed and Engineered Layer Structure</mark>
+  * <mark style="color:orange;">Published V1 of The Ultimate Guide to Keyboard Layers</mark>
+  * <mark style="color:orange;">Added Vimium extension into browser layer</mark>
+  * <mark style="color:orange;">Added more super keys</mark>
 {% endtab %}
 {% endtabs %}
