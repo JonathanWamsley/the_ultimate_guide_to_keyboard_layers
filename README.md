@@ -2,7 +2,7 @@
 
 To be more productive, keyboard shortcuts are commonly used. But these keyboard shortcuts can have unintuitive key combinations with modifiers that contort your hands in uncomfortable ways. Keyboard layers solves both of these problems and provide an interface to help organize keyboard shortcuts in an intuitive and ergonomic way.
 
-Hello, my name is Jon and I am a software engineer that uses **keyboard layers** to improve my **workflow** and **ergonomics**. I have been creating keyboard layers since 2020 and use [14 layers](broken-reference) regularly. I created _**The Ultimate Guide to Keyboard Layers**_ to collect my thoughts on layers and share what I have learnt on my [keyboard journey](resources/my-timeline.md).
+Hello, my name is Jon and I am a software engineer that uses **keyboard layers** to improve my **workflow** and **ergonomics**. I have been creating keyboard layers since 2020 and use [14 layers](ch-6-layer-examples/layers/) regularly. I created _**The Ultimate Guide to Keyboard Layers**_ to collect my thoughts on layers and share what I have learnt on my [keyboard journey](resources/my-timeline.md).
 
 I decided to publish using gitbook because it has version control and a clean documentation design. Version control means users can look at an earlier date of gitbook to find layers that may have inspired their setup. Also, because I am constantly iterating my layers and thought process, gitbook is a good way to cleanly update changes.
 
