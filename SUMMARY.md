@@ -4,8 +4,8 @@
 
 ## Ch 1: Keyboard Layers 101
 
-* [1.1 Keyboard Fundamentals](ch-1-keyboard-layers-101/1.1-keyboard-real-estate.md)
-* [1.2 Why Use Layers](ch-1-keyboard-layers-101/1.4-pros-and-cons-of-layers.md)
+* [1.1 Keyboard Fundamentals](ch-1-keyboard-layers-101/1.1-keyboard-fundamentals.md)
+* [1.2 Why Use Layers](ch-1-keyboard-layers-101/1.2-why-use-layers.md)
 * [1.3 Layer Challenges](ch-1-keyboard-layers-101/1.3-layer-challenges.md)
 
 ## Ch 2: Setup
