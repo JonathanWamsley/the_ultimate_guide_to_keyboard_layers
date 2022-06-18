@@ -1,6 +1,6 @@
 # Context Control / Macro Layer
 
-For context control, there are 2 main shortcuts. Switching between different applications which can be done natively on mac with `cmd+tab` and switching between multiple versions of an application with `cmd+tilda`.
+For context control, there are 2 main shortcuts. Switching between different applications which can be done natively on mac with `cmd+tab` and switching between multiple instances of an application with `cmd+tilda`.
 
 I use [Keyboard Maestro](https://www.keyboardmaestro.com/main/) and have a modifier layer(meh) set to the caps lock key to trigger commands. Within keyboard maestro, it has its own application switch that I find more visually pleasing. I activate switching applications with caps+d and between the same applications with caps+f.
 
@@ -8,7 +8,7 @@ I use [Keyboard Maestro](https://www.keyboardmaestro.com/main/) and have a modif
 
 ![](<../../.gitbook/assets/Screen Shot 2022-06-12 at 5.11.49 PM.png>)
 
-### Same application switcher
+### Multiple instances application switcher
 
 ![](<../../.gitbook/assets/Screen Shot 2022-06-12 at 5.12.49 PM.png>)
 

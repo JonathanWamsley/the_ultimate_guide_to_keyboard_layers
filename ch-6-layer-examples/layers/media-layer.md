@@ -1,6 +1,6 @@
 # Media Layer
 
-The media layer is commonly used to adjust audio setting. I frequent youtube (yt) quite often and have common shortcuts available on the same layer. Because this is more of an occasional use layer, not one that I will be constantly switching to I have it as a nested layer with 5 thumb keys being used.
+The media layer is commonly used to adjust audio setting. I frequent youtube (yt) quite often and have common shortcuts available on the same layer. Because this is more of an occasional use layer, I have it as a nested layer with the layer 5 thumb keys([mouse layer](mouse-layer.md)) being used.
 
 ![Media layer](<../../.gitbook/assets/Screen Shot 2022-05-29 at 3.23.46 PM.png>)
 

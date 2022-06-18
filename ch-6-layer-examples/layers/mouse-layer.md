@@ -1,8 +1,16 @@
 # Mouse Layer
 
-For a Mouse layer, I activate it using a dual function layer on hold. I use karabiner-elements to control the mouse using speed modifiers for the mouse speed and scrolling speed. For moving quickly, speed modifiers are useful. For precision, slow modifiers are useful. Additionally, you can set save points to teleport your mouse cursor to specific areas on the screen, such as the center. Teleporting the mouse cursor around is very convenient if you have multiple monitors.&#x20;
+A mouse layer is a layer that moves the mouse cursor with keyboard keys. I use karabiner-elements to control the mouse and found most other mouse controlling software are not practical because the mouse cursor is either too slow or too fast. If a speed modifier is available though, then a user can slow the mouse cursor speed when they need precision and speed it up to move quickly around. Originally, I started out with one fast and one slow speed modifier. As I became more comfortable and less impatient, I added in additional modifiers.&#x20;
 
-Getting used to a mouse layer does take some work. Doing practice drills at [aim trainer](https://aimtrainer.io/) can help. You can select custom challenge, click on the custom button to add custom settings like .5 targets per second with 0 increase speed. As you get better you can gradual increase this amount. I can do around 1.3 targets consistently for 100 hit.
+Additionally, a mouse layer can have ways to set save points for your mouse cursor to teleport the cursor to specific areas on the screen, such as the center. Teleporting the mouse cursor around is very convenient if you have multiple monitors like my setup below. I have one laptop, 3 ultrawide save points(left half centerish, middle, right half centerish), and one on the top monitor. With this setup, I find it faster to use my mouse keyboard layer than a normal mouse.
+
+![Multiple monitors that each have a cursor save point](../../.gitbook/assets/20211227\_214829.jpg)
+
+
+
+There are 3 types of clicks, left, right and cmd+click for opening links quickly. Click types are in blue. Scrolling is also on this layer in yellow keys and the speed modifiers can be used to quickly or slowly scroll.
+
+Getting used to a mouse layer does take some work. Doing practice drills at [aim trainer](https://aimtrainer.io/) can help. You can select custom challenge, click on the custom button to add custom settings like .5 targets per second with 0 increase speed. As you get better you can gradual increase this amount. I can do around 1.3 targets consistently for 100 hit. Teleport keys are in orange.
 
 {% embed url="https://www.youtube.com/watch?ab_channel=MetaTypers&v=HxGz8UXMUIc" %}
 practice drills using aim trainer

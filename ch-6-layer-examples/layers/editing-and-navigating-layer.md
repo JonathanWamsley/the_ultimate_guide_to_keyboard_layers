@@ -1,12 +1,20 @@
 # Editing & Navigating Layer
 
-This is one of the most important layer that I use. I constantly switch back in forth from the default layer to the editing & navigating layer using 1-5 commands. An editing and navigating layer is responsible for selecting, deleting, moving and copying/pasting text.
+The Editing & Navigation layer is one of the most important layer that I use. I was using a much different version of this layer even before I had an ergonomic keyboard. The layer is broken up into a few different sections.
 
-My first iterations actually had 2 edit/nav layers. One for single movement/selection using arrow keys. then another hyper edit/nav layer  that was activated with shift that would then make the single arrow/select movement become move by 1 word instead.&#x20;
+Starting with right-hand-side, the arrow keys are put in a comfortable j, i, k, l position in cyan. In red are ways to delete text with the Macro delete line on `p`. The ctrl+A and ctrl+e means go to the start line or end line even if the line is wrapped which is very useful in an editor or terminal. The thumb Hyper keys in white are actually VS code related because I am often in this layer when I context switch to a different terminal, file, or command.
 
-Later, I revised the edit/nav layer into one layer by using modifiers on the left hand side and actions on the right. The learning curve is a little higher, but the speed gains is and comfort is well worth it in the long run. This method also allows for custom modifiers to be created as well.&#x20;
+On the left-hand-side, the light blue macros are select all, line and word. The orange macros are new line above and below. On the bottom light purple is the usual undo, cut, copy, paste. There is also a paste 2nd oldest history macro on the "b" key which comes in handy all the time.&#x20;
 
-![Editing & Navigating layer](<../../.gitbook/assets/Screen Shot 2022-05-29 at 1.59.03 PM.png>)
+The section above in purple are modifiers. They are used in combination of keys on the right hand side. With the left thumb on a layer key and different modifiers held down an action on the right can be done such as an arrow key, delete key or page move key. A full chart of all the combinations are in the table below. I structured the modifier order as ctrl, option, command shift because it seemed the most comfortable because shift is the most situational key and can easily be lifted up and down.&#x20;
+
+Another cool feature is that additional commands can be made using modifier combinations. For example, if I want to move left by 3 words or up by 3 lines, I can create a macro using karabiner-elements by mapping an unused combination, like cmd+option+letter to the macro.
+
+This layer has gone through many iterations and actually used to be 2 layers. I was using this layer before I had an ergonomic keyboard because it was that useful and is what really got me into creating layers and macros. Typically, I do 4-5 actions in this layer and then go back to the default layer. I prefer having a press and hold functionality that is based on positional keys instead of modes with mnemonic like in vim.
+
+
+
+![Editing & Navigating Layer](<../../.gitbook/assets/Screen Shot 2022-06-18 at 1.25.51 AM.png>)
 
 | Description                      | Original Hotkey                              | Updated Hotkey     |
 | -------------------------------- | -------------------------------------------- | ------------------ |
