@@ -1,47 +1,64 @@
 # VS Code Layer
 
-VS code is where I spend a good portion of my work hours. Being able to navigate between different files and the terminal is a must.
+VS code is a code editor where I spend a good portion of my work hours. Being able to navigate between different files and the terminal improves my workflow greatly. Since there are so many VS code hotkeys, I actually have 2 vs code layers, the VS code editor layer and the VS code terminal layer.
 
-| Description                          | Key |
-| ------------------------------------ | --- |
-| toggle to terminal                   | F4  |
-| toggle to editor                     | F4  |
-| quick open                           | F1  |
-| show commands                        | F2  |
-|                                      |     |
-| focus left editor tab group          | u   |
-| focus right editor tab group         | o   |
-| move to left editor tab              | j   |
-| move to right editor tab             | l   |
-| move editor to left group            | h   |
-| move editor to right group           | ;   |
-| move editor left in group            | y   |
-| move editor right in group           | p   |
-| split editor                         | i   |
-| close editor                         | w   |
-| go to most recent editor group       | k   |
-| close active editor group            | 4   |
-| navigate to previous location        | m   |
-| navigate back in navigation location | n   |
-|                                      |     |
-| show side bar visibility             | m   |
-| show terminal                        | n   |
-| open weblink in terminal             | ,   |
-|                                      |     |
-| terminal split                       | i   |
-| new terminal                         | k   |
-| terminal focus previous              | j   |
-| terminal focus next                  | l   |
-| terminal go to previous instance     | u   |
-| terminal go to next instance         | o   |
-| terminal kill                        | y   |
-| resize terminal increase size        | p   |
-| resize terminal decrease size        | /   |
-| terminate(ctrl + c)                  | h   |
+### Editor Layer
+
+The VS code editor layer takes place in the editor where content is edited. The editor layer belongs to an application layer, where all keys are hyper keys and karabiner-elements transforms the keys.
+
+On the right-hand side, there are shortcuts to open, close and move between different editor groups and tabs. A group is when there are multiple windows open, like split vertically side by side. A tab is when there are multiple tabs open.
+
+On the left-hand side, there are shortcuts to search and replace, add cursors and go to problems within the editor. Multi-cursor is when multiple cursors can be created at specific locations either by position or by specific text. Problems any problems an editor sees that may be a logic, syntax or an extension related tool like incorrect spelling.
+
+![](<../../.gitbook/assets/Screen Shot 2022-06-19 at 3.37.53 AM.png>)
+
+| Description                          | Key                   |
+| ------------------------------------ | --------------------- |
+| toggle to terminal                   | F4                    |
+| toggle to editor                     | F4                    |
+| quick open                           | F1                    |
+| show commands                        | F2                    |
+| focus left editor tab group          | u                     |
+| focus right editor tab group         | o                     |
+| move to left editor tab              | j                     |
+| move to right editor tab             | l                     |
+| move editor to left group            | h                     |
+| move editor to right group           | ;                     |
+| move editor left in group            | y                     |
+| move editor right in group           | p                     |
+| split editor                         | i                     |
+| close editor                         | w                     |
+| go to most recent editor group       | k                     |
+| close active editor group            | q (registered as f12) |
+| navigate to previous location        | m                     |
+| navigate back in navigation location | n                     |
+
+### Terminal Layer
+
+The terminal layer takes place in the terminal where commands are ran. The terminal layer belongs to an application 2 layer since there are not enough hotkey spaces on the first application layer and also takes place in karabiner-elements.
+
+Right now, only the right hand side is used. Shortcuts to open, close and move between different groups and tabs similar to the right hand side of the VS code editor layer. Multiple terminal instances can be created side by side or&#x20;
+
+![](<../../.gitbook/assets/Screen Shot 2022-06-19 at 1.41.49 AM.png>)
+
+| Description                      | Key |
+| -------------------------------- | --- |
+| show side bar visibility         | m   |
+| show terminal                    | n   |
+| terminal split                   | i   |
+| new terminal                     | k   |
+| terminal focus previous          | j   |
+| terminal focus next              | l   |
+| terminal go to previous instance | u   |
+| terminal go to next instance     | o   |
+| terminal kill                    | y   |
+| resize terminal increase size    | p   |
+| resize terminal decrease size    | /   |
+| terminate(ctrl + c)              | h   |
 
 
 
-
+All VS code shortcuts
 
 ```
 // Place your key bindings in this file to override the defaults
@@ -157,10 +174,6 @@ VS code is where I spend a good portion of my work hours. Being able to navigate
     "when": "terminalFocus && terminalProcessSupported"
 },
 {
-    "key": "cmd+w",
-    "command": "-workbench.action.closeActiveEditor"
-},
-{
     "key": "alt+cmd+m",
     "command": "workbench.action.toggleSidebarVisibility"
 },
@@ -187,7 +200,7 @@ VS code is where I spend a good portion of my work hours. Being able to navigate
     "when": "inFilesPicker && inQuickOpen"
 },
 {
-    "key": "ctrl+shift+alt+cmd+f1",
+    "key": "ctrl+shift+alt+cmd+f5",
     "command": "workbench.action.quickOpen"
 },
 {
@@ -361,7 +374,7 @@ VS code is where I spend a good portion of my work hours. Being able to navigate
     "command": "-workbench.action.moveEditorRightInGroup"
 },
 {
-    "key": "ctrl+shift+alt+cmd+f5",
+    "key": "ctrl+shift+alt+cmd+f9",
     "command": "editor.action.revealDefinition",
     "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
 },
@@ -371,7 +384,7 @@ VS code is where I spend a good portion of my work hours. Being able to navigate
     "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
 },
 {
-    "key": "ctrl+shift+alt+cmd+f6",
+    "key": "ctrl+shift+alt+cmd+f10",
     "command": "editor.action.peekDefinition",
     "when": "editorHasDefinitionProvider && editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
 },
@@ -381,7 +394,7 @@ VS code is where I spend a good portion of my work hours. Being able to navigate
     "when": "editorHasDefinitionProvider && editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
 },
 {
-    "key": "ctrl+shift+alt+cmd+f7",
+    "key": "ctrl+shift+alt+cmd+f11",
     "command": "editor.action.commentLine"
 },
 {
@@ -425,50 +438,16 @@ VS code is where I spend a good portion of my work hours. Being able to navigate
     "command": "-workbench.action.quickOpenPreviousRecentlyUsedEditorInGroup"
 },
 {
-    "key": "ctrl+shift+alt+cmd+4",
-    "command": "workbench.action.closeActiveEditor"
-},
-{
     "key": "alt+cmd+,",
     "command": "workbench.action.terminal.openWebLink"
 },
 {
-    "key": "ctrl+shift+alt+cmd+f10",
-    "command": "editor.action.indentLines",
-    "when": "editorTextFocus && !editorReadonly"
-},
-{
-    "key": "cmd+]",
-    "command": "-editor.action.indentLines",
-    "when": "editorTextFocus && !editorReadonly"
-},
-{
-    "key": "ctrl+shift+alt+cmd+f9",
-    "command": "editor.action.outdentLines",
-    "when": "editorTextFocus && !editorReadonly"
-},
-{
-    "key": "cmd+[",
-    "command": "-editor.action.outdentLines",
-    "when": "editorTextFocus && !editorReadonly"
-},
-{
-    "key": "ctrl+shift+alt+cmd+f2",
+    "key": "ctrl+shift+alt+cmd+f8",
     "command": "workbench.action.showCommands"
 },
 {
     "key": "shift+cmd+p",
     "command": "-workbench.action.showCommands"
-},
-{
-    "key": "ctrl+shift+alt+cmd+f8",
-    "command": "editor.action.jumpToBracket",
-    "when": "editorTextFocus"
-},
-{
-    "key": "shift+cmd+\\",
-    "command": "-editor.action.jumpToBracket",
-    "when": "editorTextFocus"
 },
 {
     "key": "ctrl+shift+alt+cmd+m",
@@ -477,6 +456,6 @@ VS code is where I spend a good portion of my work hours. Being able to navigate
 {
     "key": "ctrl+shift+alt+cmd+n",
     "command": "workbench.action.navigateBackInNavigationLocations"
-}
+},
 ]
 ```

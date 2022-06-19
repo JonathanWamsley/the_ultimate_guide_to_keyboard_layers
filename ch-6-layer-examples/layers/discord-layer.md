@@ -2,7 +2,9 @@
 
 {% embed url="https://support.discord.com/hc/en-us/articles/225878307--macOS-Discord-Hotkeys" %}
 
-Discord can be navigated easily between different groups or channels using shortcuts. This make browsing for updates much faster
+The discord layer is another application layer. Discord can be navigated easily between different groups or channels using shortcuts. This make browsing for updates much faster
+
+![](<../../.gitbook/assets/Screen Shot 2022-06-19 at 3.38.42 AM.png>)
 
 | Description              | Original Hotkey    | Updated Hotkey |
 | ------------------------ | ------------------ | -------------- |

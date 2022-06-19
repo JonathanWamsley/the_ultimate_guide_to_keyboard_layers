@@ -2,7 +2,9 @@
 
 {% embed url="https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts" %}
 
-A slack layer helps you navigate to different slack channels, view latest unread messages and arrange text by with edits, code blocks or emojis.
+A slack layer is another application layer. The slack layer can help navigate to different slack channels, view latest unread messages and arrange text by with edits, code blocks or emojis.
+
+![](<../../.gitbook/assets/Screen Shot 2022-06-19 at 3.38.25 AM.png>)
 
 |                                    |                          |   |
 | ---------------------------------- | ------------------------ | - |

@@ -41,6 +41,7 @@
 * [Layers](ch-6-layer-examples/layers/README.md)
   * [Default Layer](ch-6-layer-examples/layers/default-layer.md)
   * [Shift Layer](ch-6-layer-examples/layers/shift-layer.md)
+  * [Numpad Layer](ch-6-layer-examples/layers/numpad-layer.md)
   * [Symbols Layer](ch-6-layer-examples/layers/symbols-layer.md)
   * [Editing & Navigating Layer](ch-6-layer-examples/layers/editing-and-navigating-layer.md)
   * [Media Layer](ch-6-layer-examples/layers/media-layer.md)
@@ -52,7 +53,6 @@
   * [Discord Layer](ch-6-layer-examples/layers/discord-layer.md)
   * [Slack Layer](ch-6-layer-examples/layers/slack-layer.md)
   * [Gaming Layer](ch-6-layer-examples/layers/gaming-layer.md)
-  * [Numpad Layer](ch-6-layer-examples/layers/numpad-layer.md)
 
 ***
 
