@@ -6,7 +6,7 @@ In the default layer, I encourage removing the number keys and replacing them fo
 
 Not all keys are equally easy to press and each user will have their own preferences. When does a shift layer become faster and more ergonomical than typing a further to reach key is a gray zone that varies from user to user. Some users won't want to use the number keys at all, some will use 3, 4, 5, 8, 9, 0 and some use all numbers.
 
-The layer below is not my own, but what I imagine what I would like if I used a qwerty layout. I also included another variant with super keys on the shift layer too.
+The layer below is not my own, but what I imagine what I would like if I used a qwerty layout. I also included another variant with super keys on the shift layer too. There may be some keys such as the qwerty bracket keys that can be no key and the super keys`<` and `>` can be placed on the shift layer.
 
 ![Default qwerty layer](<../../.gitbook/assets/Screen Shot 2022-06-18 at 1.10.40 AM.png>)
 
