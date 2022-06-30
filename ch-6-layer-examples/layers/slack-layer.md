@@ -20,7 +20,7 @@ A slack layer is another application layer. The slack layer can help navigate to
 | add emoji                          | cmd + r                  | r |
 | hyperlink selected text            | cmd + shift + u          | d |
 | code selected text                 | cmd + shift + c          | s |
-| code block selected text           | cmd + shift + option + c | c |
+| code block selected text           | cmd + shift + option + c | a |
 
 ```
                     {
